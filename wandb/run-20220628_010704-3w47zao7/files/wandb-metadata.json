@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-06-28T06:07:06.349522",
+    "startedAt": "2022-06-28T06:07:04.624521",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\juanc\\Documents\\theaibook\\GPT-3-Models\\train\\train.py",
+    "codePath": "train\\train.py",
+    "git": {
+        "remote": "https://github.com/The-AI-Book/GPT-3-Models.git",
+        "commit": "d414337f276118cd1a5e182a3d0e3caa7d1a2e3a"
+    },
+    "email": "juancepeda.gestion@gmail.com",
+    "root": "C:/Users/juanc/Documents/theaibook/GPT-3-Models",
+    "host": "JUANCHOBANANO-PC",
+    "username": "juanc",
+    "executable": "C:\\Users\\juanc\\Documents\\theaibook\\GPT-3-Models\\env\\Scripts\\python.exe"
+}

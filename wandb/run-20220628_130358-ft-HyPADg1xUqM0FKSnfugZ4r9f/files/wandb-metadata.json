@@ -1,0 +1,28 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-06-28T18:04:00.101188",
+    "startedAt": "2022-06-28T18:03:58.536239",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "wandb",
+        "sync",
+        "--project",
+        "bring-me-back"
+    ],
+    "state": "running",
+    "program": "-m __main__",
+    "git": {
+        "remote": "https://github.com/The-AI-Book/GPT-3-Models.git",
+        "commit": "d414337f276118cd1a5e182a3d0e3caa7d1a2e3a"
+    },
+    "email": "juancepeda.gestion@gmail.com",
+    "root": "C:/Users/juanc/Documents/theaibook/GPT-3-Models",
+    "host": "JUANCHOBANANO-PC",
+    "username": "juanc",
+    "executable": "C:\\Users\\juanc\\Documents\\theaibook\\GPT-3-Models\\env\\Scripts\\python.exe"
+}

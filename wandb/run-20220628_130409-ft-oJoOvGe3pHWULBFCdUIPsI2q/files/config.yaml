@@ -1,0 +1,89 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.19
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.12
+    start_time: 1656439449
+    t:
+      1:
+      - 55
+      2:
+      - 55
+      3:
+      - 2
+      - 13
+      - 14
+      - 16
+      4: 3.9.12
+      5: 0.12.19
+      8:
+      - 3
+      - 5
+created_at:
+  desc: null
+  value: '2022-06-28T12:58:54'
+fine_tuned_model:
+  desc: null
+  value: curie:ft-universidad-nacional-de-colombia-2022-06-28-18-03-35
+hyperparams:
+  desc: null
+  value:
+    batch_size: 4
+    learning_rate_multiplier: 0.1
+    n_epochs: 4
+    prompt_loss_weight: 0.1
+id:
+  desc: null
+  value: ft-oJoOvGe3pHWULBFCdUIPsI2q
+model:
+  desc: null
+  value: curie
+object:
+  desc: null
+  value: fine-tune
+organization_id:
+  desc: null
+  value: org-MskWd8qE4IsgjXHJgjER6uED
+result_files:
+  desc: null
+  value:
+    bytes: 21547
+    created_at: 1656439417
+    filename: compiled_results.csv
+    id: file-qIcL0RztMxBgB3aQDX3hmFTg
+    object: file
+    purpose: fine-tune-results
+    status: processed
+    status_details: null
+status:
+  desc: null
+  value: succeeded
+training_files:
+  desc: null
+  value:
+    bytes: 40416
+    created_at: 1656439131
+    filename: ./data/train_data_prepared.jsonl
+    id: file-kQQqAaFY7qPrn00lIiuEn4j2
+    object: file
+    purpose: fine-tune
+    status: processed
+    status_details: null
+updated_at:
+  desc: null
+  value: 1656439420
+validation_files:
+  desc: null
+  value:
+    bytes: 4437
+    created_at: 1656439133
+    filename: ./data/validation_data_prepared.jsonl
+    id: file-omXZzP63306ovjKmbbb0YLXn
+    object: file
+    purpose: fine-tune
+    status: processed
+    status_details: null
